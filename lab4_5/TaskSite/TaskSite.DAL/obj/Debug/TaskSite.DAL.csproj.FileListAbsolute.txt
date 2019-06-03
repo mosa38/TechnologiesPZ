@@ -1,0 +1,10 @@
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\TaskSite.DAL.dll.config
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\TaskSite.DAL.dll
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\TaskSite.DAL.pdb
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\EntityFramework.dll
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\EntityFramework.xml
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\obj\Debug\TaskSite.DAL.csprojResolveAssemblyReference.cache
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\obj\Debug\TaskSite.DAL.dll
+D:\я\Сюда\УЧЕБА\3 курс\3 курс 2 сем\шарп\lab5\TaskSite\TaskSite.DAL\obj\Debug\TaskSite.DAL.pdb

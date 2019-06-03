@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TaskSite.MVC.Models.JobViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Job</h2>
+<form method="get">
+    <div class="form-inline">
+        <label class="control-label">Worker: </label>
+        @Html.DropDownList("workers_list", "Select Worker")
+        <input type="submit" value="Filter" class="btn btn-default" />
+    </div>
+</form>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Priority)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>
+                @Html.DisplayFor(modelItem => item.Name)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Time)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Priority)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Status)
+            </th>
+        </tr>
+    }
+</table>
